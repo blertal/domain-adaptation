@@ -1,3 +1,3 @@
 # domain-adaptation
 
-Domain adaptation between SVHN and MNIST using cycleGAN. Accuracy 89%.
+Domain adaptation between SVHN and MNIST using cycleGAN without using SGHN labels. Accuracy 89%.
